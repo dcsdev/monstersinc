@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/monstersinc/static/css/main.aeaae127.css",
-    "main.js": "/github.io/monstersinc/static/js/main.de82c452.js",
-    "static/js/787.94f37108.chunk.js": "/github.io/monstersinc/static/js/787.94f37108.chunk.js",
-    "index.html": "/github.io/monstersinc/index.html",
-    "main.aeaae127.css.map": "/github.io/monstersinc/static/css/main.aeaae127.css.map",
-    "main.de82c452.js.map": "/github.io/monstersinc/static/js/main.de82c452.js.map",
-    "787.94f37108.chunk.js.map": "/github.io/monstersinc/static/js/787.94f37108.chunk.js.map"
+    "main.css": "/monstersinc/static/css/main.aeaae127.css",
+    "main.js": "/monstersinc/static/js/main.5f4abd01.js",
+    "static/js/787.94f37108.chunk.js": "/monstersinc/static/js/787.94f37108.chunk.js",
+    "index.html": "/monstersinc/index.html",
+    "main.aeaae127.css.map": "/monstersinc/static/css/main.aeaae127.css.map",
+    "main.5f4abd01.js.map": "/monstersinc/static/js/main.5f4abd01.js.map",
+    "787.94f37108.chunk.js.map": "/monstersinc/static/js/787.94f37108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeaae127.css",
-    "static/js/main.de82c452.js"
+    "static/js/main.5f4abd01.js"
   ]
 }
